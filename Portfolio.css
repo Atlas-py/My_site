@@ -71,3 +71,8 @@ button{
     cursor: zoom-in;
     width: 20%;
 }
+
+.download{
+    white-space: nowrap;
+    display: inline-block;
+}
